@@ -1,0 +1,24 @@
+.bg-image {
+    background-image: url('../images/Hale-Hale-Image.png');
+    background-size: cover;
+}
+
+.mask {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 500px;
+}
+
+/* header styles */
+.header {
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+    font-size: 4.5vw;
+    border-bottom: 1px solid black;
+    padding-bottom: 1rem;
+}
+/* END OF: header styles */
+
+.accent {
+    background-color: cornflowerblue;
+}
